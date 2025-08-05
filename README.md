@@ -22,7 +22,7 @@ Done in three steps:
  - [.streamlit](./.streamlit) This folder contains configuration files for the streamlit theme in Web App.
 
 ### Future Scope
-- Deploying the web app.
+- Deploying the Web App.
 - Integration of an inbuilt music player using  SpotiPy library, with spotify authentication.
 - Addition of more gestures, and control of volume using gesture detection.
 - Improved Reliablity and addition of User Feedback 
