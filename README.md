@@ -1,7 +1,7 @@
 # Sangeet - Facial emotion detection based music recommendation system
 
 ### Table of Contents
-1. [About the Project](#about)
+1. [About the project](#about)
 2. [Structure of this repository](#repository-structure)
 3. [Future Scope](#future-scope)
 4. [References](#references)
