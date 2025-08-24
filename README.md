@@ -16,7 +16,7 @@ Done in three steps:
 
 ### Repository Structure
  This repository is organised as:
- - [app](/app.py) This file contain the setup of final web app.
+ - [app](/app.py) This file contain the setup of final Web App.
  - [model](/model.h5) This file contains the trained model.
  - [Emotion Detection](./Emotion%20Detection) This folder contains python scripts to train the model.
  - [.streamlit](./.streamlit) This folder contains configuration files for the streamlit theme in Web App.
